@@ -23,7 +23,7 @@ driverClass: io.openmessaging.benchmark.driver.natsStreaming.NatsStreamingBenchm
 
 # RabbitMq client specific configurations
 
-natsHostUrl: nats://localhost:4222
-clusterId: mycluster
+natsHostUrl: nats://nats:4222
+clusterId: stan
 
 
